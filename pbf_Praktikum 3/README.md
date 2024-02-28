@@ -61,3 +61,5 @@ Kode yang Awal menngalami error di karenakan reach setelah di perbaharui akan ta
 
 Soal 5
 
+![test](img/hasil_soal%205.png)
+
