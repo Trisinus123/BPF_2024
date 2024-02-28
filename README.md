@@ -1,3 +1,6 @@
+Berisi Praktikum Pemrograman Berbasi Framework
+
+
 <h1 align="center">Hi 👋, I'm Tris</h1>
 <h3 align="center">Manusia Biasa</h3>
 
