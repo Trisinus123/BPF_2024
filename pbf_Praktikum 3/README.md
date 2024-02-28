@@ -75,5 +75,7 @@ Hasil Output
 
 # Praktikum 4: Menggunakan Props
 
-Langkah 1 - Membuat Komponen Baru src/components/mygallery.tsx 
+Soal 7
+
+![test](img/hasil_Soal7.png)
 
