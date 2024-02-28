@@ -63,3 +63,17 @@ Soal 5
 
 ![test](img/hasil_soal%205.png)
 
+Soal 6  :
+
+Hasilnya tetap sama cuma ada di yang tambahkan huruf dolar $ di dalam commponets file todolist
+
+![test](img/image1_Soal6.png)
+
+Hasil Output
+
+![test](img/hasil_Soal6.png)
+
+# Praktikum 4: Menggunakan Props
+
+Langkah 1 - Membuat Komponen Baru src/components/mygallery.tsx 
+
