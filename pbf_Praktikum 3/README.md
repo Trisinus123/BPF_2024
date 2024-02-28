@@ -43,4 +43,21 @@ Langkah 3 - Import Komponen
 
 **Soal 2**
 
+Hasil Output
+![test](img/Hasil_Prak2.png)
+
+Penjelasan:
+
+# Aturan JSX
+
+
 # Praktikum 3 - Menggunakan JSX dinamis
+
+Soal 4
+
+Kode yang Awal menngalami error di karenakan reach setelah di perbaharui akan tampil seperti ini dan tidak mengalami error lagi 
+
+![test](img/Prak3_Image1.png)
+
+Soal 5
+
