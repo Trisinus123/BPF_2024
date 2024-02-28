@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tris</h1>
-<h3 align="center">from Indonesia</h3>
+<h3 align="center">Manusia Biasa</h3>
 
 - 📫 How to reach me **trisinusgulo6@gmail.com**
 
