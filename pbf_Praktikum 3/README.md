@@ -1,0 +1,46 @@
+NAMA : Trisinus Gulo
+
+Kelas : TI-3C
+
+Absen : 14
+
+Praktikum 3 : PBF
+
+# Paktikum 1 - Mendefinisikan Komponen
+
+Langkah 1 : Membuat Folder Baru
+![test](img/Prak1_Image1.png)
+
+Langkah 2: Buat Komponen Baru
+
+Membuat folder baru dan file baru di src/components/profile.tsx
+![test](img/Prak1_Image2.png)
+
+Langkah 3: Import Komponen
+
+import komponen Profile ke src/app/page.tsx
+![test](img/Prak1_Image3.png)
+
+**Soal 1**
+
+Ubah isi kode Home() sehingga dapat tampil seperti berikut dengan memanfaatkan komponen Profile() yang tadi sudah dibuat dari langkah 1 tersebut!
+
+Hasil Output
+![test](img/Hasil_Prak1.png)
+
+Penjelasan:
+
+## Praktikum 2 - Mengimpor dan Mengekspor Komponen
+
+Langkah 1 - Membuat Komponen Baru
+
+membbuat file baru di src/components/gallery.tsx
+
+![test](img/Prak1_Image2.png)
+
+Langkah 3 - Import Komponen
+![test](img/Prak2_Image2.png)
+
+**Soal 2**
+
+# Praktikum 3 - Menggunakan JSX dinamis
