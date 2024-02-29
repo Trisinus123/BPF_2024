@@ -2,6 +2,7 @@ import Image from "next/image";
 // import { Gallery } from "@/components/gallery";
 // import TodoList from "@/components/todolist";
 import MyGallery from "@/components/mygallery";
+import Myprofile from "@/components/myprofile";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         <hr />
         {/* <TodoList /> */}
         <MyGallery />
+        <Myprofile />
       </div>
     </main>
   );

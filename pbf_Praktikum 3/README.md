@@ -77,5 +77,12 @@ Hasil Output
 
 Soal 7
 
+Hasil Output
+
 ![test](img/hasil_Soal7.png)
+
+Soal 8
+
+![test](img/Hasil_Soal%208.png)
+
 
