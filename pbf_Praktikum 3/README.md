@@ -85,4 +85,6 @@ Soal 8
 
 ![test](img/Hasil_Soal%208.png)
 
+Soal 9
 
+![test](img/hasil_Soal9.png)
