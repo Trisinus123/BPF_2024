@@ -41,6 +41,9 @@ membbuat file baru di src/components/gallery.tsx
 Langkah 3 - Import Komponen
 ![test](img/Prak2_Image2.png)
 
+Penjelasan:
+<!-- Terdapat kesalahan saat memuat gambar dari URL yang diperlukan untuk diperbaiki. Solusinya adalah dengan menambahkan domain gambar yang digunakan ke dalam berkas next.config.mjs.  -->
+
 **Soal 2**
 
 Hasil Output
@@ -87,4 +90,4 @@ Soal 8
 
 Soal 9
 
-![test](img/hasil_Soal9.png)
+![test](img/hasil_9soal.png)
