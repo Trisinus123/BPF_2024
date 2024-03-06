@@ -34,3 +34,20 @@ mengalamai error di karenakan belum melakukan pengaturan komponen untuk mengatas
 **Hasil Output**
 ![test](img/Hasil%20Akhir_Prak4.png)
 Berhasil di jalankan dan ketika di klink butonnya akan muncul perintah seperti di bawah
+
+# Praktikum 2
+
+Membuat fungsi baru di componect/button tsx
+![test](img/image6_prak4.png)
+Memodifikasi file page.tsx
+![test](img/image7_prak4.png)
+![test](img/hasil1_Prak4.png)
+Ketika diklik button pesan
+![test](img/hasil2_prak4.png)
+**Penjelasan**
+- pada praktikum 2 hasilnya sama di praktikum 1 kita cuma memodifikasi kodingannya aja dengan menambahkan button pesan saja
+- Pada Praktikum 2 dimana pada kodingan button.tsx untuk export function buttonya untuk isi pesan dan nama tombolnya akan bergaris merah untuk itu saya menambahkan salah satu tipe data yaitu string seperti di bawah ini
+
+      export function Tombol_2({ isiPesan, namaTombol }: { isiPesan: string, namaTombol: string }){
+
+
