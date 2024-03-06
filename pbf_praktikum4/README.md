@@ -50,4 +50,17 @@ Ketika diklik button pesan
 
       export function Tombol_2({ isiPesan, namaTombol }: { isiPesan: string, namaTombol: string }){
 
+# Praktikum 3
+
+Langkah 1 - Propagation 
+![test](img/image8_Prak4.png)
+
+Memodifikasi file page.tsx
+![test](img/image9_Prak4.png)
+![test](img/Propogation.png)
+![test](img/propogation_Tombol1.png)
+![test](img/propogation_Tombol2.png)
+
+Langkah 3 - Stop Propagation
+![test](img/stop%20Propagation.png)
 
