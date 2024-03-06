@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Nama : Trisinus Gulo
 
-## Getting Started
+Nim : 2141720035
 
-First, run the development server:
+Absen : 14
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Pertemuan 4 : PBF
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Praktikum 1 - EVent Hadler
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Langkah 1
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+mencoba membuat tombol sederhana yang belum bisa melakukan apa-apa alias belum bisa  buat event handler untuk tombol tersebut. Sebagai contoh, berikut adalah sebuah tombol yang belum melakukan apa pun. Membuat folder/file baru di src/component/button.tsx
+![test](img/image1_Prak4.png)
 
-## Learn More
+pada file src/app/page.tsx
+![test](img/image2_Prak4.png)
 
-To learn more about Next.js, take a look at the following resources:
+**Hasil Output**
+![test](img/hasil_Prak4.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Langkah 2
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Menambahkan event pada tombol tersebut. Seperti contoh kita buat ketika tombol di klik, akan memunculkan notif/alert. Kita dapat membuat pesan ketika pengguna mengeklik dengan mengikuti tiga langkah berikut:
 
-## Deploy on Vercel
+1. Deklarasikan sebuah fungsi bernama handleClick di dalam komponen Button kita.
+2. Implementasikan logika di dalam fungsi tersebut (gunakan alert untuk menampilkan pesan).
+3. Tambahkan handler onClick={handleClick} ke tag JSX < button >
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![test](img/image3_Prak4.png)
+![test](img/image4_Prak4.png)
+mengalamai error di karenakan belum melakukan pengaturan komponen untuk mengatasi error tersebuat butuh mengatur agar komponen yang di gunakan menjadi komponen client. Untuk menjadikan komponen client,  cukup memberikan perintah ini "use client"; pada baris pertama file page.tsx
+![test](img/image5_Prak4.png)
+**Hasil Output**
+![test](img/Hasil%20Akhir_Prak4.png)
+Berhasil di jalankan dan ketika di klink butonnya akan muncul perintah seperti di bawah
