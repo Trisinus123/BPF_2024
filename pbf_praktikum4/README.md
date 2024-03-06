@@ -6,7 +6,7 @@ Absen : 14
 
 Pertemuan 4 : PBF
 
-# Praktikum 1 - EVent Hadler
+Praktikum 1 - EVent Hadler
 
 Langkah 1
 
@@ -35,7 +35,7 @@ mengalamai error di karenakan belum melakukan pengaturan komponen untuk mengatas
 ![test](img/Hasil%20Akhir_Prak4.png)
 Berhasil di jalankan dan ketika di klink butonnya akan muncul perintah seperti di bawah
 
-# Praktikum 2
+Praktikum 2
 
 Membuat fungsi baru di componect/button tsx
 ![test](img/image6_prak4.png)
@@ -50,7 +50,7 @@ Ketika diklik button pesan
 
       export function Tombol_2({ isiPesan, namaTombol }: { isiPesan: string, namaTombol: string }){
 
-# Praktikum 3
+Praktikum 3
 
 Langkah 1 - Propagation 
 ![test](img/image8_Prak4.png)
@@ -64,7 +64,7 @@ Memodifikasi file page.tsx
 Langkah 3 - Stop Propagation
 ![test](img/stop%20Propagation.png)
 
-# Praktikum 4
+Praktikum 4
 
 langkah 1
 ![test](img/article.js.png)
@@ -78,4 +78,12 @@ Menambahkan Variabel state
 ![test](img/langkah2.png)
 ![test](img/hasil_Langkah2.png)
 pada langkah ini bisa kita megklik  artikel selanjutnya di karenakan melakukan modifikasi pada kodingannya gallery.tsx
+
+Praktikum 5
+
+Langkah 1
+![test](img/image1_Prak5.png)
+
+Langkah 2
+
 
