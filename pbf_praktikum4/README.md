@@ -64,3 +64,18 @@ Memodifikasi file page.tsx
 Langkah 3 - Stop Propagation
 ![test](img/stop%20Propagation.png)
 
+# Praktikum 4
+
+langkah 1
+![test](img/article.js.png)
+![test](img/gallery.tsx.png)
+![test](img/page.tsx_prak4.png)
+![test](img/Hasil_Praktikum4.png)
+akan menampilkan artikel dan juga gambar arkel tersebut 
+
+Langkah 2
+Menambahkan Variabel state
+![test](img/langkah2.png)
+![test](img/hasil_Langkah2.png)
+pada langkah ini bisa kita megklik  artikel selanjutnya di karenakan melakukan modifikasi pada kodingannya gallery.tsx
+
