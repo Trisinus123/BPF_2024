@@ -8,23 +8,14 @@ export default function Gallery() {
         setIndex((index + 1) % sculptureList.length)
     }
 
-    function backArticle() {
-        setIndex((index - 1) < 0 ? (sculptureList.length - 1) : (index - 1))
-    }
-
-    let sculpture = sculptureList[index]
+    let sculpture = sculptureList[index];
 
     return (
         <div>
             <button
-                className='bg-yellow-500 hover:bg-yellow-700 p-2 m-2 rounded'
-                onClick={backArticle}>
-                    Sebelumya
-            </button>
-            <button
-                className='bg-blue-500 hover:bg-blue-700 p-2 m-2 rounded'
-                onClick={handleClick}>
-                    Selanjutnya
+            className='bg-blue-500 hover:bg-blue-700 p-2 m-2 rounded'
+            onClick={handleClick}>
+                Artkel Selanjutnya
             </button>
             <h2><i>{sculpture.name}</i> oleh {sculpture.artist}</h2>
             <h3>({index + 1} dari {sculptureList.length})</h3>
@@ -33,3 +24,4 @@ export default function Gallery() {
         </div>
     )
 }
+

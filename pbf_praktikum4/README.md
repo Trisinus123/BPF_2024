@@ -97,6 +97,7 @@ Praktikum 5
 
 Langkah 1
 ![test](img/image1_Prak5.png)
+![test](img/hasil_prak5.png)
 
 Langkah 2
 
