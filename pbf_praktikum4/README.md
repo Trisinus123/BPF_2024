@@ -79,6 +79,20 @@ Menambahkan Variabel state
 ![test](img/hasil_Langkah2.png)
 pada langkah ini bisa kita megklik  artikel selanjutnya di karenakan melakukan modifikasi pada kodingannya gallery.tsx
 
+Soal
+1. Jika kita menekan tombol "Artikel Selanjutnya" sebanyak 5x (atau melebihi halaman total artikel), apa yang akan terjadi?
+
+dengan menekan tombol artkel tersebut sebanyak 5 kali akan mengalami error karena melebih index dari artkel tersebut
+![test](img/jawaban_soal1_Prak4.png)
+2. Modifikasilah gallery.tsx agar bisa meng-handle permasalahan tersebut.
+![test](img/jawaban_soal2_Prak4.png)
+melakukan midifikasi dengan menambahkan Modulus increment dari index sehingga dihasilkan dari 0 sampe index terakhir
+
+3. Tambahkan tombol "Artikel Sebelumnya", untuk menampilkan artikel secara mundur.
+![test](img/sebelumnya.png)
+![test](img/Hasil%20sebelumnya.png)
+penggunaan ternary operator untuk membuat kondisi seperti yang  di mana jika index baru kurang dari 0, maka value baru akan diset menjadi index terakhir dari list
+
 Praktikum 5
 
 Langkah 1
