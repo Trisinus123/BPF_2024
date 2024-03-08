@@ -110,3 +110,13 @@ kedua komponen tersebut adalah fungsi dan state yang digunakan, serta tujuan dar
 2. Kenapa perlu menghapus state fullName? Apa keuntungannya? -->
 ![test](img/Soal2_prak5.png)
 Dengan menghapus state `fullName` dan menggantinya dengan perhitungan langsung setiap kali salah satu dari `firstName` atau `lastName` berubah, Anda dapat meningkatkan kesederhanaan, konsistensi, performa, dan penghematan memori dalam komponen  Ini membuat komponen menjadi lebih sederhana, lebih mudah dipahami, dan lebih efisien dalam penggunaan. 
+
+Praktikum 6
+
+Langkah 1
+![test](img/langka1_Prak6.png)
+![test](img/Lanjutan%20langka1_Prak6.png)
+![test](img/Lanjutan1%20langka1_Prak6.png)
+![test](img/hasil_prak6.png)
+
+Langkah 2
