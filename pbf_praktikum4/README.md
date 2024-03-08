@@ -125,7 +125,7 @@ Langkah 2
 Soal
 1. Apa tujuan dari penulisan ini key={to.email} pada < Chat key={to.email} contact={to} / > ?
 
-Penambahan `key={to.email}` pada komponen `<Chat />` dalam struktur JSX `ContactList` tidak memiliki efek karena `<Chat />` tidak diulang dalam suatu daftar. Pemberian kunci (`key`) biasanya diperlukan saat kita melakukan rendering dalam loop dari suatu array, seperti yang dilakukan dalam komponen `ContactList`. Dalam konteks ini, kunci memungkinkan React untuk mengidentifikasi dengan unik setiap elemen dalam daftar dan mengelola perubahan secara efisien. Namun, dalam kasus `<Chat />`, yang mungkin hanya terhubung dengan satu kontak pada suatu waktu, pemberian kunci tidak diperlukan. Ini mungkin merupakan kesalahan penulisan atau bagian dari kode yang tidak relevan dalam implementasi saat ini.
+Penambahan `key={to.email}` pada komponen `<Chat />` dalam struktur JSX `ContactList` tidak memiliki efek karena `<Chat />` tidak diulang dalam suatu daftar. Pemberian kunci (`key`) biasanya diperlukan saat kita melakukan rendering dalam loop dari suatu array, seperti yang dilakukan dalam komponen `ContactList`. Dalam konteks ini, kunci memungkinkan React untuk mengidentifikasi dengan unik setiap elemen dalam daftar dan mengelola perubahan secara efisien. Namun, dalam kasus `<Chat />`, yang mungkin hanya terhubung dengan satu kontak pada suatu waktu, pemberian kunci tidak diperlukan. 
 
 1. Apa fungsi dari props key tersebut?
 
