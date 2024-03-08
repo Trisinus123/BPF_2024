@@ -100,5 +100,12 @@ Langkah 1
 ![test](img/hasil_prak5.png)
 
 Langkah 2
+![test](img/langkah2_prak5.png)
 
+<!-- Soal
+1. Apa perbedaan dari fungsi Form_2 yang pertama dengan yang kedua?
 
+kedua komponen tersebut adalah fungsi dan state yang digunakan, serta tujuan dari setiap komponen tersebut. Form digunakan untuk menebak jawaban dengan mengirimkan jawaban tersebut dan menangani responsnya, sedangkan Form_2 hanya digunakan untuk mengumpulkan informasi nama lengkap pengguna.
+
+2. Kenapa perlu menghapus state fullName? Apa keuntungannya? -->
+<!-- ![test](img/Soal2_prak5.png) -->

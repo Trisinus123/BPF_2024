@@ -1,4 +1,4 @@
-// import { stat } from "fs";
+import { stat } from "fs";
 import { useState } from "react";
 
 export default function Form() {
@@ -55,16 +55,17 @@ export default function Form() {
 export function Form_2() {
     const [firstName, setFirstName] = useState('')
     const [lastName, setLastName] = useState('')
-    const [fullName, setFulltName] = useState('')
+    // const [fullName, setFulltName] = useState('')
+    const fullName = firstName + ' ' + lastName
 
     function handleFirstNameChange(e: any) {
         setFirstName(e.target.value)
-        setFulltName(e.target.value + ' ' + lastName)
+        // setFulltName(e.target.value + ' ' + lastName)
     }
 
     function handleLastNameChange(e: any) {
         setLastName(e.target.value)
-        setFulltName(firstName  + ' ' + e.target.value)
+        // setFulltName(firstName  + ' ' + e.target.value)
     }
 
     return (
