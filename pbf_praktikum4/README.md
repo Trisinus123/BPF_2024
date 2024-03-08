@@ -120,3 +120,13 @@ Langkah 1
 ![test](img/hasil_prak6.png)
 
 Langkah 2
+![test](img/lagkah2_prak6.png)
+
+Soal
+1. Apa tujuan dari penulisan ini key={to.email} pada < Chat key={to.email} contact={to} / > ?
+
+Penambahan `key={to.email}` pada komponen `<Chat />` dalam struktur JSX `ContactList` tidak memiliki efek karena `<Chat />` tidak diulang dalam suatu daftar. Pemberian kunci (`key`) biasanya diperlukan saat kita melakukan rendering dalam loop dari suatu array, seperti yang dilakukan dalam komponen `ContactList`. Dalam konteks ini, kunci memungkinkan React untuk mengidentifikasi dengan unik setiap elemen dalam daftar dan mengelola perubahan secara efisien. Namun, dalam kasus `<Chat />`, yang mungkin hanya terhubung dengan satu kontak pada suatu waktu, pemberian kunci tidak diperlukan. Ini mungkin merupakan kesalahan penulisan atau bagian dari kode yang tidak relevan dalam implementasi saat ini.
+
+1. Apa fungsi dari props key tersebut?
+
+Penggunaan prop key memungkinkan React untuk mengidentifikasi dengan unik setiap elemen dalam daftar yang dirender secara dinamis. Ketika Anda memiliki daftar elemen yang dirender dalam sebuah loop atau iterasi, React menggunakan kunci ini untuk membedakan setiap elemen, sehingga memungkinkan untuk mengelola perubahan secara efisien.
