@@ -102,11 +102,11 @@ Langkah 1
 Langkah 2
 ![test](img/langkah2_prak5.png)
 
-<!-- Soal
+Soal
 1. Apa perbedaan dari fungsi Form_2 yang pertama dengan yang kedua?
 
 kedua komponen tersebut adalah fungsi dan state yang digunakan, serta tujuan dari setiap komponen tersebut. Form digunakan untuk menebak jawaban dengan mengirimkan jawaban tersebut dan menangani responsnya, sedangkan Form_2 hanya digunakan untuk mengumpulkan informasi nama lengkap pengguna.
 
 2. Kenapa perlu menghapus state fullName? Apa keuntungannya? -->
-<!-- ![test](img/Soal2_prak5.png)
-Dengan menghapus state `fullName` dan menggantinya dengan perhitungan langsung setiap kali salah satu dari `firstName` atau `lastName` berubah, Anda dapat meningkatkan kesederhanaan, konsistensi, performa, dan penghematan memori dalam komponen  Ini membuat komponen menjadi lebih sederhana, lebih mudah dipahami, dan lebih efisien dalam penggunaan. --> 
+![test](img/Soal2_prak5.png)
+Dengan menghapus state `fullName` dan menggantinya dengan perhitungan langsung setiap kali salah satu dari `firstName` atau `lastName` berubah, Anda dapat meningkatkan kesederhanaan, konsistensi, performa, dan penghematan memori dalam komponen  Ini membuat komponen menjadi lebih sederhana, lebih mudah dipahami, dan lebih efisien dalam penggunaan. 
