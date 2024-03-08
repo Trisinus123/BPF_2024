@@ -82,7 +82,7 @@ pada langkah ini bisa kita megklik  artikel selanjutnya di karenakan melakukan m
 Soal
 1. Jika kita menekan tombol "Artikel Selanjutnya" sebanyak 5x (atau melebihi halaman total artikel), apa yang akan terjadi?
 
-dengan menekan tombol artkel tersebut sebanyak 5 kali akan mengalami error karena melebih index dari artkel tersebut
+dengan menekan tombol artkel tersebut sebanyak 5 kali akan mengalami error karena melebih index dari artkel tersebut sehingga tidak bisa kita next ke 5 kalinya.
 ![test](img/jawaban_soal1_Prak4.png)
 2. Modifikasilah gallery.tsx agar bisa meng-handle permasalahan tersebut.
 ![test](img/jawaban_soal2_Prak4.png)
@@ -108,4 +108,5 @@ Langkah 2
 kedua komponen tersebut adalah fungsi dan state yang digunakan, serta tujuan dari setiap komponen tersebut. Form digunakan untuk menebak jawaban dengan mengirimkan jawaban tersebut dan menangani responsnya, sedangkan Form_2 hanya digunakan untuk mengumpulkan informasi nama lengkap pengguna.
 
 2. Kenapa perlu menghapus state fullName? Apa keuntungannya? -->
-<!-- ![test](img/Soal2_prak5.png) -->
+<!-- ![test](img/Soal2_prak5.png)
+Dengan menghapus state `fullName` dan menggantinya dengan perhitungan langsung setiap kali salah satu dari `firstName` atau `lastName` berubah, Anda dapat meningkatkan kesederhanaan, konsistensi, performa, dan penghematan memori dalam komponen  Ini membuat komponen menjadi lebih sederhana, lebih mudah dipahami, dan lebih efisien dalam penggunaan. --> 
