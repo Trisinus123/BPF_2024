@@ -33,8 +33,32 @@ Praktikum 1 - Membuat routing sederhana
    
    kekuarangannya  yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 kita perlu menambahkan folder nya dan juga page tsx lainnya sehingga resource tidak maksimal atau tidak terurut perlu menggunakan pege tsx banyak.
 
-   <!-- Praktikum 3: Membuat routing dinamis (Dynamic Routing)
-       -->
+ Praktikum 3: Membuat routing dinamis (Dynamic Routing)
+
+Langkah 1 - membuat products/page.tsx
+   
+  ![test](img/Product1.png)
+  ![test](img/hasil%20product1.png)
+
+Langkah 2 - menambahkan  file page.tsx pada lokasi /app/products/[productId]  
+  
+  ![test](img/Productid.png)
+  ![test](img/hasil%20productid.png)
+
+Langkah 3 - Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
+  
+  ![test](img/third.png)
+  ![test](img/hasil%20third.png)
+
+Langkah 4 - Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
+
+  ![test](img/review1.png)
+  ![test](img/hasil%20review1.png)
+
+  
+
+  
+      
 
 
 
