@@ -24,28 +24,17 @@ Praktikum 1 - Membuat routing sederhana
 
  Praktikum 2 - Membuat routing bersarang (Nested Routing)
    
-   Blogs
-
    ![test](img/blogs1.png)
-
    ![test](img/blogs.png)
-   
-   First Blogs
-
    ![test](img/first.png)
-
    ![test](img/hasil%20first.png)
-   
-   Second 
-
    ![test](img/Second.png)
-
    ![etst](img/hasil%20second.png) 
    
    kekuarangannya  yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 kita perlu menambahkan folder nya dan juga page tsx lainnya sehingga resource tidak maksimal atau tidak terurut perlu menggunakan pege tsx banyak.
 
-   Praktikum 3: Membuat routing dinamis (Dynamic Routing)
-      
+   <!-- Praktikum 3: Membuat routing dinamis (Dynamic Routing)
+       -->
 
 
 
