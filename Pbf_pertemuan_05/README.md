@@ -57,6 +57,17 @@ Langkah 4 - Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah 
 
 Praktikum 4: Navigasi dengan Link Component
 
+Langkah 1 - menambahkan penggunaan Link komponen untuk mengakses halaman /profile dan /about
+  
+  ![test](img/prak4_Langkah%201.png)
+  ![test](img/prak4_%20Hasil%20Langkah%201.png)
+
+Langkah 2 - Membahkan link komponen pada blog dan product
+  
+  ![test](img/prak4_%20Hasil%20Langkah%202.png)
+  ![test](img/prak4_%20Hasil%20Langkah.png)
+
+
 
 
   
