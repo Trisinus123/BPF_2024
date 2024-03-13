@@ -15,17 +15,12 @@ Praktikum 1 - Membuat routing sederhana
    ![test](img/Langkah2_Prak%202.png)
 
 3. menambahkan file page.tsx di dalam folder app serta membuat komponenya
-   
-     Home
-     
-     ![test](img/home.png)
-     ![test](img/hasil%20home.png)
-      About
-     ![test](img/About.png)
-     ![test](img/Hasil%20About.png)
-     Profile
-     ![test](img/profile.png)
-     ![test](img/hasil%20profile.png)
+   ![test](img/home.png)
+   ![test](img/hasil%20home.png)
+   ![test](img/About.png)
+   ![test](img/Hasil%20About.png)
+   ![test](img/profile.png)
+   ![test](img/hasil%20profile.png)
 
  Praktikum 2 - Membuat routing bersarang (Nested Routing)
    
@@ -42,7 +37,7 @@ Praktikum 1 - Membuat routing sederhana
    ![test](img/hasil%20first.png)
    
    Second 
-   
+
    ![test](img/Second.png)
 
    ![etst](img/hasil%20second.png) 
