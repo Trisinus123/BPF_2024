@@ -25,6 +25,20 @@ Praktikum 1 - Membuat routing sederhana
    c. Profile
       ![test](img/profile.png)
       ![test](img/hasil%20profile.png)
+
+Praktikum 2 - Membuat routing bersarang (Nested Routing)
+   
+   a. Blogs
+      ![test](img/blogs1.png)
+      ![test](img/blogs.png)
+   b. First Blogs
+      ![test](img/first.png)
+      ![test](img/hasil%20first.png)
+   c. Second 
+      ![test](img/Second.png)
+      ![etst](img/hasil%20second.png)
+   
+   kekuarangannya  yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 kita perlu menambahkan folder nya dan juga page tsx lainnya sehingga resource tidak maksimal atau tidak terurut perlu menggunakan pege tsx banyak.
       
 
 
