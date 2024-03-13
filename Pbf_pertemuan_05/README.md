@@ -55,6 +55,10 @@ Langkah 4 - Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah 
   ![test](img/review1.png)
   ![test](img/hasil%20review1.png)
 
+Praktikum 4: Navigasi dengan Link Component
+
+
+
   
 
   
