@@ -16,6 +16,7 @@ Praktikum 1 - Membuat routing sederhana
 
 3. menambahkan file page.tsx di dalam folder app serta membuat komponenya
    a. Home
+   
       ![test](img/home.png)
       ![test](img/hasil%20home.png)
    b. About
