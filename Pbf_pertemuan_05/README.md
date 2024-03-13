@@ -33,7 +33,7 @@ Praktikum 1 - Membuat routing sederhana
    
    kekuarangannya  yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 kita perlu menambahkan folder nya dan juga page tsx lainnya sehingga resource tidak maksimal atau tidak terurut perlu menggunakan pege tsx banyak.
 
- Praktikum 3: Membuat routing dinamis (Dynamic Routing)
+ Praktikum 3: Membuat routing dinamis
 
 Langkah 1 - membuat products/page.tsx
    
