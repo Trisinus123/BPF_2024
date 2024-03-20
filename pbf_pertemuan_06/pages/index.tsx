@@ -7,7 +7,7 @@ export default function Home() {
                     className="btn btn-primary"
                     data-bs-toggle="modal"
                     data-bs-target="#exampleModal">
-                    Coba Model Bootstrap
+                    brCoba Model Bootstrap
             </button>
           </div>
         </div>
