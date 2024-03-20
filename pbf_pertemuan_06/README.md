@@ -11,6 +11,8 @@ Praktikum 1 - Instalasi Redux dan bootstrap
 ![tset](img/hasil_prak1.png)
 ![test](img/hasil2_prak1.png)
 
+Praktikum 2 - Contoh Login dengan Redux
+
 
 
 
