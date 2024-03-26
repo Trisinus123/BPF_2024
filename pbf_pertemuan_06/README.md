@@ -51,6 +51,27 @@ terjadi error saat melakukan restart di halaman webnya tersebut.
 ![tet](img/prak2_soal2.png)
 Tanpa menggunakan method `parse()`, string HTML akan dianggap sebagai teks biasa dan tidak akan diinterpretasikan sebagai elemen HTML yang sebenarnya di dalam JSX. Dengan menggunakan `parse()`, string HTML diuraikan menjadi elemen HTML sesuai dengan strukturnya sehingga dapat dirender dengan benar di dalam JSX.
 
+Praktikum 3 - Membuat Aplikasi Counter Sederhana
+
+Langkah 1 -  Membuat file di redux/counter/naikTurunSlice.js
+
+![test](img/prak4_langkah1.png)
+
+Langkah 2 - Memodifikasi redux/store/store.js
+
+![test](img/pra3_langkah2.png)
+
+Langkah 3 - Membuat file baru di pages/counter.tsx
+
+![test](img/prak3_langkah3.png)
+![test](img/prak3_langkah4.png)
+
+Hasil Output
+![test](img/hasil_Output3.png)
+
+
+
+
 
 
 
