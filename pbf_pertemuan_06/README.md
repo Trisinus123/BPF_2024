@@ -47,7 +47,9 @@ Soal
 ![test](img/prak2_soal1.png)
 terjadi error saat melakukan restart di halaman webnya
 
-<!-- 2. Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan method tersebut? -->
+2. Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan method tersebut? 
+![tet](img/prak2_soal2.png)
+Tanpa menggunakan method `parse()`, string HTML akan dianggap sebagai teks biasa dan tidak akan diinterpretasikan sebagai elemen HTML yang sebenarnya di dalam JSX. Dengan menggunakan `parse()`, string HTML diuraikan menjadi elemen HTML sesuai dengan strukturnya sehingga dapat dirender dengan benar di dalam JSX.
 
 
 
