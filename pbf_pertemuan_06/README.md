@@ -42,6 +42,13 @@ Terjadi saat mengakses /login, sehingga perlu memberbarui file _app.tsx
 ![test](img/prak2_langkah10.png)
 ![test](img/prak2_langkah11.png)
 
+Soal
+1. Coba akses http://localhost:3000/login, dan klik tombol login. Kemudian lakukan refresh page berkali-kali (jika perlu restart npm run dev nya). Simpulkan apa yang terjadi ?
+![test](img/prak2_soal1.png)
+terjadi error saat melakukan restart di halam webnya
+
+<!-- 2. Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan method tersebut? -->
+
 
 
 
