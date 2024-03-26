@@ -39,6 +39,9 @@ Langkah 5 - buat file baru di pages/login.tsx
 
 Terjadi saat mengakses /login, sehingga perlu memberbarui file _app.tsx
 ![test](img/prak2_langkah8.png)
+![test](img/prak2_langkah10.png)
+![test](img/prak2_langkah11.png)
+
 
 
 
