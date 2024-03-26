@@ -84,7 +84,7 @@ const { isLogin } = useSelector((state) => state.auth);
 const {totalCounter} = useSelector((state) => state.counter);
 Back
 
-Jawaban : 
+**Jawaban :** 
 
 1. Kode `import { useEffect } from "react";` pada file `pages/_app.tsx` digunakan untuk mengimpor hook `useEffect` dari React, yang berguna untuk melakukan side effects di dalam komponen React.
 2. Jika tidak menggunakan `useEffect` pada `pages/_app.tsx`, efek yang telah ditetapkan dalam `useEffect` tidak akan terjadi, seperti inisialisasi data global atau pengaturan layout global.
