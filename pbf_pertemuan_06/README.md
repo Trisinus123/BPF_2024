@@ -86,24 +86,13 @@ Back
 
 Jawaban : 
 
-1. Kegunaan dari `import { useEffect } from "react";` pada file `pages/_app.tsx` adalah untuk mengimpor hook `useEffect` dari pustaka React. `useEffect` digunakan untuk melakukan side effects di dalam komponen React, seperti pengambilan data dari API, manipulasi DOM, dan lain sebagainya. Pada file `_app.tsx`, `useEffect` dapat digunakan untuk mengatur efek global yang berlaku untuk setiap halaman di aplikasi Next.js, misalnya pengaturan layout, pengambilan data global, dan lain-lain.
-
-2. Jika kita tidak menggunakan `useEffect` pada file `pages/_app.tsx` (dengan menghapus baris 3 dan baris 9-11), maka efek yang telah ditetapkan dalam `useEffect` tersebut tidak akan terjadi. Hal ini dapat menyebabkan fungsionalitas yang diatur oleh `useEffect` tidak berjalan, seperti inisialisasi data global, pengaturan layout global, dan lain-lain.
-
-3. Di React/Next.js, penulisan atribut `class` dalam tag HTML harus diganti menjadi `className` karena `class` merupakan kata kunci yang sudah dipesan dalam JavaScript untuk mendefinisikan kelas. Oleh karena itu, untuk menghindari konflik dengan JavaScript, dalam JSX kita menggunakan `className` sebagai pengganti `class` untuk menetapkan kelas CSS pada elemen HTML.
-
-4. Ya, store pada Next.js bisa menyimpan banyak redux reducer. Redux store pada Next.js sama seperti Redux store pada aplikasi React biasa, di mana Anda dapat menggabungkan beberapa reducer menggunakan `combineReducers()` untuk mengelola state aplikasi secara terpusat.
-
-5. File `store.js` berfungsi sebagai pusat pengaturan Redux store untuk aplikasi Next.js. Di dalam file ini, Anda dapat mengonfigurasi middleware Redux, menggabungkan reducer dengan fungsi `combineReducers()`, dan membuat store Redux yang akan digunakan oleh komponen-komponen dalam aplikasi.
-
-6. Pada file `pages/login.tsx`, kode `const { isLogin } = useSelector((state) => state.auth);` digunakan untuk mengekstrak nilai `isLogin` dari state Redux dengan menggunakan selector `useSelector`. Nilai `isLogin` kemudian digunakan dalam komponen untuk menentukan apakah pengguna sudah login atau belum.
-
-7. Pada file `pages/counter.tsx`, kode `const {totalCounter} = useSelector((state) => state.counter);` digunakan untuk mengekstrak nilai `totalCounter` dari state Redux dengan menggunakan selector `useSelector`. Nilai `totalCounter` kemudian digunakan dalam komponen untuk menampilkan jumlah total dari counter yang ada di aplikasi.
-
-
-
-
-
+1. Kode `import { useEffect } from "react";` pada file `pages/_app.tsx` digunakan untuk mengimpor hook `useEffect` dari React, yang berguna untuk melakukan side effects di dalam komponen React.
+2. Jika tidak menggunakan `useEffect` pada `pages/_app.tsx`, efek yang telah ditetapkan dalam `useEffect` tidak akan terjadi, seperti inisialisasi data global atau pengaturan layout global.
+3. Penulisan atribut `class` dalam tag HTML diganti menjadi `className` di React/Next.js untuk menghindari konflik dengan JavaScript, karena `class` merupakan kata kunci yang sudah dipesan dalam JavaScript.
+4. Ya, store pada Next.js bisa menyimpan banyak redux reducer. Redux store di Next.js mengikuti prinsip yang sama seperti Redux store di aplikasi React biasa.
+5. File `store.js` pada Next.js berfungsi sebagai pusat pengaturan Redux store untuk aplikasi, di mana konfigurasi middleware Redux, penggabungan reducer, dan pembuatan store Redux dilakukan.
+6. Pada file `pages/login.tsx`, kode `const { isLogin } = useSelector((state) => state.auth);` digunakan untuk mengambil nilai `isLogin` dari state Redux menggunakan selector `useSelector`.
+7. Pada file `pages/counter.tsx`, kode `const {totalCounter} = useSelector((state) => state.counter);` digunakan untuk mengambil nilai `totalCounter` dari state Redux menggunakan selector `useSelector`.
 
 
 
