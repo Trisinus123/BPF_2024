@@ -4,7 +4,7 @@ Absen : 14
 
 Kelas : TI-3C
 
-Praktikum 1 - Install Laravel 9
+Praktikum 1 : Install Laravel 9
 
 Langkah 1 - Membuat project baru
 ![test](img/Langkah1-laravel.png)
@@ -36,7 +36,7 @@ php artisan storage:link
 ```
 ![test](img/Langkah8-laravel.png)
 
-Praktikum 2 - Membuat Api Resource
+Praktikum 2 : Membuat Api Resource
 
 Langkah 1 - Membuat api resource
 
@@ -48,7 +48,7 @@ php artisan make:resource PostResource
 Langkah 2 - Melakukan customer Api Resource
 ![test](img/langkah2_Prak2.png)
 
-Praktikum 3 - Menampilkan Data dari Database
+Praktikum 3 : Menampilkan Data dari Database
 
 Langkah 1 - Membuat Controller
 ```bash
@@ -65,7 +65,7 @@ php artisan install:api
 Langkah 3 - Uji Coba Rest Api
 ![test](img/Langkah3-Prak3.png)
 
-Praktikum 4 - Insert Data ke Database
+Praktikum 4 : Insert Data ke Database
 
 Lnagkah 1 - Menambah Method Store
 ![test](img/langkah1_Prak4.png)
@@ -74,6 +74,19 @@ Langkah 2 - Uji Coba Rest Api
 ![test](img/langkah2_Prak4.png)
 ![test](img/langkah2-Prak4.png)
 ![test](img/langkah2_Lanjt_Prak4.png)
+
+Praktikum 5 : Menampilkan Detail Data
+
+Langkah 1 - Menambah Method Show
+![test](img/langkah1_Prak5.png)
+
+Langkah 2 - Uji coba Rest Api
+![test](img/langkah2-Prak5.png)
+
+<!-- Praktikum 6 - Update Data ke Database
+
+Langkah 1  -->
+
 
 
 
