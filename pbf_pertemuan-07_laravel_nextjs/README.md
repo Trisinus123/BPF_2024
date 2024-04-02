@@ -92,7 +92,13 @@ Langkah 1 -  Menambahkan Method Update
 Langkah 2 - Uji Coba Rest Api
 ![test](img/Langkah3-Prak6.png)
 
-<!-- Praktikum 7 : Delete Data dari Database? -->
+Praktikum 7 : Delete Data dari Database
+
+Langkah 1 - Menambahkan Method destroy
+![test](img/langkah1_Prak7.png)
+
+Langkah - Uji Coba Rest Api
+![test](img/langkah2_Prak7.png)
 
 
 
