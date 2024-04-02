@@ -34,10 +34,12 @@ Langkah 5.2: Gunakan context
 Langkah 5.3: Sediakan context
 ![test](img/Langkah10_Prak1.png)
 ![test](img/Langkah11_Prak1.png)
-<!-- ![test](img/revisi%20hasil_Prak1.png)
+![test](img/revisi%20hasil_Prak1.png)
 
 Soal 2
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+![test](img/revisi%20hasil_Prak1.png)
+Meneruskan nilai antar komponen menggunakan Context memungkinkan komponen-komponen anak mengakses nilai tanpa perlu meneruskannya secara langsung. Meskipun nilai-nilai tersebut tersedia melalui Context, tampilan halaman tetap sama seperti sebelumnya.
 
-Jika terjadi error, silakan perbaiki, Mengapa hal itu bisa terjadi? Jelaskan!
- -->
+Langkah 6: Menggunakan dan menyediakan context dari komponen yang sama
+
