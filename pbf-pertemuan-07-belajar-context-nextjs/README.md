@@ -46,3 +46,8 @@ Langkah 6: Menggunakan dan menyediakan context dari komponen yang sama
 ![test](img/Langkah14_Prak1.png)
 ![test](img/Langkah15_Prak1.png)
 
+Soal 3
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+![test](img/revisi%20hasil2_Prak1.png)
+Dalam langkah keenam ini, Context digunakan untuk mentransfer data secara otomatis dengan penambahan otomatis. Meskipun ukuran font lebih kecil pada awalnya, nilai tersebut bertambah secara otomatis di setiap level komponen anak, menghasilkan perbedaan visual yang diinginkan. Tujuannya tetap sama: mengirimkan data antar komponen dengan pola atau operasi tertentu tanpa perlu penanganan manual di setiap level.
+
