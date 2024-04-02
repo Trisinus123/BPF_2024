@@ -24,3 +24,20 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 ![test](img/hasil_Prak1.png)
 Dengan pendekatan Atomic Design, kita mengorganisir komponen-komponen dalam struktur terstruktur. Kode dapat dipakai ulang, mengurangi duplikasi, dan tampilan yang bervariasi bisa dibuat dengan mudah menggunakan properti dinamis.
 
+Langkah 5.1: Buat Context
+![test](img/Langkah7_Prak3.png)
+
+Langkah 5.2: Gunakan context
+![test](img/Langkah8_Prak1.png)
+![test](img/Langkah9_Prak1.png)
+
+Langkah 5.3: Sediakan context
+![test](img/Langkah10_Prak1.png)
+![test](img/Langkah11_Prak1.png)
+<!-- ![test](img/revisi%20hasil_Prak1.png)
+
+Soal 2
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+Jika terjadi error, silakan perbaiki, Mengapa hal itu bisa terjadi? Jelaskan!
+ -->
