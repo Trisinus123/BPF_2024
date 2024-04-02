@@ -35,3 +35,15 @@ Langkah 8 - Menjalankan Storage Link
 php artisan storage:link
 ```
 ![test](img/Langkah8-laravel.png)
+
+Langkah 8 - Membuat Api Resource
+
+Langkah 1 - Membuat api resource
+
+```bash 
+php artisan make:resource PostResource
+```
+![test](img/langkah1_Prak2.png)
+
+Langkah 2 - Melakukan customer Api Resource
+![test](img/langkah2_Prak2.png)
