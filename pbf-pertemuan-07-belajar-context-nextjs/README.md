@@ -19,3 +19,8 @@ Langkah 3: Buat komponen atom baru
 Langkah 4: Ubah isi kode page.tsx dan run
 ![test](img/Langkah6_Prak3.png)
 
+Soal 1
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+![test](img/hasil_Prak1.png)
+Dengan pendekatan Atomic Design, kita mengorganisir komponen-komponen dalam struktur terstruktur. Kode dapat dipakai ulang, mengurangi duplikasi, dan tampilan yang bervariasi bisa dibuat dengan mudah menggunakan properti dinamis.
+
