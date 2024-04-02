@@ -42,4 +42,7 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 Meneruskan nilai antar komponen menggunakan Context memungkinkan komponen-komponen anak mengakses nilai tanpa perlu meneruskannya secara langsung. Meskipun nilai-nilai tersebut tersedia melalui Context, tampilan halaman tetap sama seperti sebelumnya.
 
 Langkah 6: Menggunakan dan menyediakan context dari komponen yang sama
+![test](img/Langkah13_Prak1.png)
+![test](img/Langkah14_Prak1.png)
+![test](img/Langkah15_Prak1.png)
 
