@@ -72,5 +72,28 @@ Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM p
 ![test](img/langkah9-prak3.png)
 ![test](img/hasil5-prak3.png)
 
+Praktikum 3: Membuat Context Tema Light/Dark
+
+Langkah 1: Membuat variabel tema
+![test](img/langkah1-prak4.png)
+![test](img/langkah2-prak4.png)
+
+Langkah 2: Buat komponen atom NavBar
+![test](img/langkah5-prak4.png)
+
+Langkah 3: Buat Provider
+![test](img/langkah7-prak4.png)
+
+Langkah 4: Buat masing-masing page
+![test](img/langkah9-prak4.png)
+![test](img/langkah10-prak4.png)
+
+Langkah 5: Buat routing
+![test](img/langkah11-prak4.png)
+![test](img/langkah12-prak4.png)
+![test](img/langkah13-prak4.png)
+
+
+
 
 
