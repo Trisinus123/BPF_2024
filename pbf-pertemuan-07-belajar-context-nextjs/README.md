@@ -51,3 +51,22 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 ![test](img/revisi%20hasil2_Prak1.png)
 Dalam langkah keenam ini, Context digunakan untuk mentransfer data secara otomatis dengan penambahan otomatis. Meskipun ukuran font lebih kecil pada awalnya, nilai tersebut bertambah secara otomatis di setiap level komponen anak, menghasilkan perbedaan visual yang diinginkan. Tujuannya tetap sama: mengirimkan data antar komponen dengan pola atau operasi tertentu tanpa perlu penanganan manual di setiap level.
 
+Praktikum 2: Membuat Context melewati komponen perantara
+
+Langkah 1: Buat komponen atom baru
+![test](img/langkah1_Prak2.png)
+![test](img/langkah2_Prak2.png)
+![test](img/langkah3_Prak2.png)
+![test](img/langkah4-prak3.png)
+![test](img/langkah5-prak3.png)
+
+Langkah 2: Tambahkan ProfilePage ke page.tsx lalu run
+![test](img/langkah6-prak3.png)
+![test](img/langkah7-prak3.png)
+![test](img/langkash7-prak3.png)
+![test](img/hasil3_Prak3.png)
+![test](img/hasil4_Prak3.png)
+
+
+
+
