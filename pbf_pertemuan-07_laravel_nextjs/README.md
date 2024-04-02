@@ -64,3 +64,16 @@ php artisan install:api
 
 Langkah 3 - Uji Coba Rest Api
 ![test](img/Langkah3-Prak3.png)
+
+Praktikum 4 - Insert Data ke Database
+
+Lnagkah 1 - Menambah Method Store
+![test](img/langkah1_Prak4.png)
+
+Langkah 2 - Uji Coba Rest Api
+![test](img/langkah2_Prak4.png)
+![test](img/langkah2-Prak4.png)
+![test](img/langkah2_Lanjt_Prak4.png)
+
+
+
