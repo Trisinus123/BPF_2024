@@ -6,7 +6,7 @@ import AllPosts from "../organisms/allpost";
 export default function ProfilePage() {
     return (
         <Section2 isFancy={true}>
-            <Heading>Profil Saya</Heading>
+            <Heading>Profil Trisinus | 2141720035</Heading>
             <Post 
             title="Hello Traveller!" 
             body="Baca tentang petualangan saya"/>

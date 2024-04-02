@@ -67,6 +67,10 @@ Langkah 2: Tambahkan ProfilePage ke page.tsx lalu run
 ![test](img/hasil3_Prak3.png)
 ![test](img/hasil4_Prak3.png)
 
+Soal 4
+Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada bagian komponen Post agar menunjukkan itu hasil kerja Anda!
+![test](img/langkah9-prak3.png)
+![test](img/hasil5-prak3.png)
 
 
 
