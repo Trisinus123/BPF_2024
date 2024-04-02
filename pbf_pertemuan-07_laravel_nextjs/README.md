@@ -83,9 +83,17 @@ Langkah 1 - Menambah Method Show
 Langkah 2 - Uji coba Rest Api
 ![test](img/langkah2-Prak5.png)
 
-<!-- Praktikum 6 - Update Data ke Database
+Praktikum 6 : Update Data ke Database
 
-Langkah 1  -->
+Langkah 1 -  Menambahkan Method Update
+![tets](img/langkah1_Prak6.png)
+![test](img/Langkah2-prak6.png)
+
+Langkah 2 - Uji Coba Rest Api
+![test](img/Langkah3-Prak6.png)
+
+<!-- Praktikum 7 : Delete Data dari Database? -->
+
 
 
 
