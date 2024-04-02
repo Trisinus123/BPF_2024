@@ -36,7 +36,7 @@ php artisan storage:link
 ```
 ![test](img/Langkah8-laravel.png)
 
-Langkah 8 - Membuat Api Resource
+Praktikum 2 - Membuat Api Resource
 
 Langkah 1 - Membuat api resource
 
@@ -47,3 +47,20 @@ php artisan make:resource PostResource
 
 Langkah 2 - Melakukan customer Api Resource
 ![test](img/langkah2_Prak2.png)
+
+Praktikum 3 - Menampilkan Data dari Database
+
+Langkah 1 - Membuat Controller
+```bash
+php artisan make:controller Api/PostController
+```
+![test](img/Langkah1_prak3.png)
+
+Langkah 2 - Membuat Route Api Resource
+```bash
+php artisan install:api
+```
+![test](img/Langkah2_prak3.png)
+
+Langkah 3 - Uji Coba Rest Api
+![test](img/Langkah3-Prak3.png)
