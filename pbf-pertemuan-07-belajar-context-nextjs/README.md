@@ -89,7 +89,9 @@ Langkah 4: Buat masing-masing page
 ![test](img/langkah10-prak4.png)
 
 Langkah 5: Buat routing
+
 ![test](img/langkah11-prak4.png)
+
 ![test](img/langkah12-prak4.png)
 ![test](img/langkah13-prak4.png)
 
