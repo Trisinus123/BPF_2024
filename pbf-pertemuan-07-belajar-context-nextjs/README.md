@@ -95,6 +95,15 @@ Langkah 5: Buat routing
 ![test](img/langkah12-prak4.png)
 ![test](img/langkah13-prak4.png)
 
+Soal 5
+Silakan save semua dan lakukan running di browser Anda. Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada setiap page routing agar menunjukkan itu hasil kerja Anda sendiri!
+
+1. Apakah toggle button tema sudah berfungsi ? jika belum, silakan perbaiki!
+![test](img/Jawaban%20soal%204_soal1_Praktikum%203.gif)
+2. Mengapa ketika refresh atau berpindah halaman tema tidak permanen ? Buatlah menjadi permanen walaupun page sudah direfresh dan pindah halaman!
+
+Hal terjadi karna state nama browser 
+
 
 
 
