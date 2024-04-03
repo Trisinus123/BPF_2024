@@ -16,7 +16,7 @@ Langkah 3: Buat komponen atom baru
 ![test](img/Langkah4_Prak3.png)
 ![test](img/Langkah5_Prak3.png)
 
-Langkah 4: Ubah isi kode page.tsx dan run
+<!-- Langkah 4: Ubah isi kode page.tsx dan run -->
 ![test](img/Langkah6_Prak3.png)
 
 Soal 1
