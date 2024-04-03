@@ -6,7 +6,7 @@ export default function AboutPage() {
     return (
         <Section2 isFancy={true}>
             <Heading>About Me</Heading>
-            <Post title="My name is Raden Rizki" body="For your information, my NIM is 2141720064"/>
+            <Post title="My name is Trisinus Gulo" body="For your information, my NIM is 2141710035"/>
         </Section2>
     );
 }
