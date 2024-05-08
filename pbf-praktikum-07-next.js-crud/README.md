@@ -28,5 +28,17 @@ Langkah 3 : Membuat Component navbar
 Langkah 4 : Membuat Layout
 ![test](img/langkah5-prak2.png)
 
+Praktikum 3 : Menampilkan Data di Next.js (Server Side)
 
+Langkah 1: Intall Axiois
+```bash
+npm install axios@0.26.0
+```
+Langkah 2 : Konfigurasi Env untuk Endpoint
+![test](img/langksh1-prak3.png)
+
+Langkah 3 : Menampilkan data ke Next.js
+![test](img/langkah3-prak3.png)
+
+Langkah 4 - Uji coba menampilkan data
 
