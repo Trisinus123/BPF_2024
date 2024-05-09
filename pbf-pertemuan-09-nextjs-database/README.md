@@ -23,4 +23,9 @@ Langkah 3 : Koneksikan dan Deploy Project Anda
 ![tet](img/praktukum1_Langkah3_.png)
 ![test](img/praktukum1_Langkah3+.png)
 
+Soal 1 :
+Capture hasil deploy project Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari?
+jawab:
+dengan menggunakan varcel kita bisa dapat mendeploy project kita pada repository yang kita miliki baik secara keseluruhan maupun hanya yang ingin kita pilih. Selain itu, Vercel juga menyediakan fitur pratinjau untuk melihat laman yang sudah Anda buat sebelum dideploy secara resmi.
+
 
