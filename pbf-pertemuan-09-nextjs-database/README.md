@@ -16,10 +16,10 @@ Langkah 2 : Membuat Akun Vercel
 
 Langkah 3 : Koneksikan dan Deploy Project Anda
 
-- Klik Install > Pilih Repo > Install
+- Klik Install -> Pilih Repo -> Install
 ![tets](img/praktukum1_Langkah3.png)
 
-- Klik Import > Pilih Framework > Deploy
+- Klik Import -> Pilih Framework ->Deploy
 ![tet](img/praktukum1_Langkah3_.png)
 
 
