@@ -89,4 +89,20 @@ Capture hasil npm run seed Anda dan buatlah laporan di file README.md. Jelaskan 
 jawab:
 File seed.js berfungsi untuk memasukkan data dan tabel ke dalam database, sementara data.js berfungsi untuk menentukan jenis data yang akan dimasukkan ke setiap tabel.
 
+Langkah 6 : Menjelajah Basis Data
+
+![test](img/praktukum1_Langkah6.png)
+
+![test](img/praktukum1_Langkah6_.png)
+![test](img/praktukum1_Langkah6+.png)
+
+Soal 4
+
+Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ? Cobalah eksekusi query SQL yang lain sesuai kreasi Anda, capture hasilnya dan jelaskan!
+
+jawab:
+Query di atas menggabungkan tabel invoices dan customers, menampilkan hanya data amount dan name dari masing-masing tabel dengan menghubungkannya melalui customer_id. Data yang ditampilkan hanya amount dari invoices yang memiliki nilai 666.
+
+
+
 
