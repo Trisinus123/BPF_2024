@@ -30,4 +30,25 @@ Capture hasil deploy project Anda dan buatlah laporan di file README.md. Jelaska
 jawab:
 dengan menggunakan varcel kita bisa dapat mendeploy project kita pada repository yang kita miliki baik secara keseluruhan maupun hanya yang ingin kita pilih. Selain itu, Vercel juga menyediakan fitur pratinjau untuk melihat laman yang sudah Anda buat sebelum dideploy secara resmi.
 
+Langkah 4 : Membuat basis data Postgres
+
+![tess](img/praktukum1_Langkah4.png)
+
+![test](img/praktukum1_Langkah4_.png)
+
+![test](img/praktukum1_Langkah4+.png)
+
+- Show secret > Copy Snippet
+
+![test](img/praktukum1_Langkah4-.png)
+![test](img/praktukum1_Langkah4_4.png)
+
+-  install Vercel Postgres SDK.
+```bash
+npm i --save @vercel/postgres
+```
+
+
+
+
 
