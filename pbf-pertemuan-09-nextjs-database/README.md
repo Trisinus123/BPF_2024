@@ -21,5 +21,6 @@ Langkah 3 : Koneksikan dan Deploy Project Anda
 
 - Klik Import -> Pilih Framework ->Deploy
 ![tet](img/praktukum1_Langkah3_.png)
+![test](img/praktukum1_Langkah3+.png)
 
 
