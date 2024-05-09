@@ -82,7 +82,11 @@ npm i --save bcrypt
 ```
 ![test](img/praktukum1_Langkah5_1.png)
 
+Soal 3
 
+Capture hasil npm run seed Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 
+jawab:
+File seed.js berfungsi untuk memasukkan data dan tabel ke dalam database, sementara data.js berfungsi untuk menentukan jenis data yang akan dimasukkan ke setiap tabel.
 
 
