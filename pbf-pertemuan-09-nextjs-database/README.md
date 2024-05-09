@@ -55,7 +55,32 @@ Capture hasil basis data Anda dan buatlah laporan di file README.md. Jelaskan ap
 jawab:
 Selain digunakan untuk deploy proyek dari GitHub, Vercel juga dapat membantu dalam pembuatan database. Pada praktikum ini, kita menggunakan Vercel untuk membuat database Postgres. Untuk mengakses database tersebut, perlu dibuat file .env dan dimasukkan ke dalam .gitignore agar informasi akses database tidak terbuka di GitHub.
 
+Langkah 5 : Melakukan seed ke basis data
 
+![test](img/praktukum1_Langkah5_.png)
+
+![test](img/praktukum1_Langkah5+.png)
+
+![test](img/praktukum1_Langkah5.png)
+
+-  Mengeksekusi file seed.js
+```bash 
+npm run seed
+```
+Error: Cannot find module 'dotenv/config'
+```bash
+npm i --save dotenv
+```
+
+Error: Cannot find module 'data.js'
+
+![test](img/praktukum1_Langkah5-.png)\
+
+Error: Cannot find module 'bcrypt'
+```bash
+npm i --save bcrypt
+```
+![test](img/praktukum1_Langkah5_1.png)
 
 
 
