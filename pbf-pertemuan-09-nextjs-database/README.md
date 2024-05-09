@@ -24,6 +24,7 @@ Langkah 3 : Koneksikan dan Deploy Project Anda
 ![test](img/praktukum1_Langkah3+.png)
 
 Soal 1 :
+
 Capture hasil deploy project Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari?
 
 jawab:
