@@ -23,7 +23,7 @@ Langkah 3 : Koneksikan dan Deploy Project Anda
 ![tet](img/praktukum1_Langkah3_.png)
 ![test](img/praktukum1_Langkah3+.png)
 
-Soal 1 :
+Soal 1 
 
 Capture hasil deploy project Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari?
 
@@ -47,6 +47,15 @@ Langkah 4 : Membuat basis data Postgres
 ```bash
 npm i --save @vercel/postgres
 ```
+
+Soal 2
+
+Capture hasil basis data Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari?
+
+jawab:
+Selain digunakan untuk deploy proyek dari GitHub, Vercel juga dapat membantu dalam pembuatan database. Pada praktikum ini, kita menggunakan Vercel untuk membuat database Postgres. Untuk mengakses database tersebut, perlu dibuat file .env dan dimasukkan ke dalam .gitignore agar informasi akses database tidak terbuka di GitHub.
+
+
 
 
 
