@@ -138,5 +138,20 @@ Langkah 2 : Membuat Komponen Atom
 
 ![test](img/Praktikum2_Langkah9.png)
 
+Soal 5
+
+Lakukan push, kemudian perhatikan di akun dashboard Vercel project Anda. Capture dan lampirkan link aplikasi Anda yang telah berhasil di deploy, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+
+![test](img/hasil_Praktikum2.png)
+
+[Link App](https://pbf-pertemuan-09-nextjs-database.vercel.app/)
+
+Tentu, mari kita variasikan:
+
+Pertama-tama, kita akan mulai dengan menetapkan struktur data untuk setiap entitas dalam database dengan merancang model definitions. Setelah itu, langkah selanjutnya adalah mengembangkan model query yang memungkinkan akses data dari database menggunakan berbagai query yang sesuai. Selain itu, model query juga memberikan kesempatan untuk mengolah data sebelum disajikan kepada pengguna melalui laman atau client.
+
+Setelah tahap tersebut selesai, fokus akan dialihkan ke pengembangan komponen-komponen dan laman-laman yang akan ditampilkan kepada pengguna. Meskipun laman untuk menampilkan data belum aktif, langkah ini diperlukan untuk memastikan keselamatan program tanpa adanya kesalahan. Seiring dengan kemajuan pengembangan komponen-komponen, langkah berikutnya adalah memperbarui halaman utama (page.tsx) agar komponen-komponen yang telah dibuat dapat diimpor dan ditampilkan saat server berjalan.
+
+
 
 
