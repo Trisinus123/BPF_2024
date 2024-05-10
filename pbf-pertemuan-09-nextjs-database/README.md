@@ -103,6 +103,8 @@ Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yan
 jawab:
 Query di atas menggabungkan tabel invoices dan customers, menampilkan hanya data amount dan name dari masing-masing tabel dengan menghubungkannya melalui customer_id. Data yang ditampilkan hanya amount dari invoices yang memiliki nilai 666.
 
+![test](img/praktukum1_Langkah7.png)
+
 
 
 
