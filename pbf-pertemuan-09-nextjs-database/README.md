@@ -108,8 +108,35 @@ Query di atas menggabungkan tabel invoices dan customers, menampilkan hanya data
 
 Praktikum 2 : Fetching Data (API)
 
+Langkah 1 : Membuat Global Query (Model)
 
+![test](img/Praktikum2_Langkah1.png)
 
+- Buat 2 file di dalam folder model yaitu definitions.tsx dan query.tsx
+
+![test](img/Praktikum2_Langkah2.png)
+
+![test](img/Praktikum2_Langkah3.png)
+
+-  Buat file utils.tsx di dalam folder utils
+
+![test](img/Praktikum2_Langkah4.png)
+
+Langkah 2 : Membuat Komponen Atom
+
+![test](img/Praktikum2_Langkah5.png)
+
+- Buat komponen molecules, ada 3 file yaitu card.tsx, latest-invoices.tsx, dan revenue-chart.tsx
+
+![test](img/Praktikum2_Langkah6.png)
+
+![test](img/Praktikum2_Langkah7.png)
+
+![test](img/Praktikum2_Langkah8.png)
+
+- Ganti semua kode di src/app/page.tsx
+
+![test](img/Praktikum2_Langkah9.png)
 
 
 
