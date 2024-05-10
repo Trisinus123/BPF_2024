@@ -106,5 +106,10 @@ Query di atas menggabungkan tabel invoices dan customers, menampilkan hanya data
 ![test](img/praktukum1_Langkah7.png)
 
 
+Praktikum 2 : Fetching Data (API)
+
+
+
+
 
 
