@@ -152,6 +152,16 @@ Pertama-tama, kita akan mulai dengan menetapkan struktur data untuk setiap entit
 
 Setelah tahap tersebut selesai, fokus akan dialihkan ke pengembangan komponen-komponen dan laman-laman yang akan ditampilkan kepada pengguna. Meskipun laman untuk menampilkan data belum aktif, langkah ini diperlukan untuk memastikan keselamatan program tanpa adanya kesalahan. Seiring dengan kemajuan pengembangan komponen-komponen, langkah berikutnya adalah memperbarui halaman utama (page.tsx) agar komponen-komponen yang telah dibuat dapat diimpor dan ditampilkan saat server berjalan.
 
+- Menghilangkan comment pada komponen RevenueChart
+
+![tets](img/Praktikum2_Langkah10.png)
+
+![test](img/Praktikum2_Langkah11.png)
+
+
+
+
+
 
 
 <!-- **Tugas Praktikum**
