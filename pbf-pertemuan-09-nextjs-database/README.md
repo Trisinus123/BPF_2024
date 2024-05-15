@@ -158,12 +158,12 @@ Setelah tahap tersebut selesai, fokus akan dialihkan ke pengembangan komponen-ko
 
 ![test](img/Praktikum2_Langkah11+.png)
 
-Soal 6
+<!-- Soal 6
 
 Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 jawab:
 
-![test](img/praktikum2_soal6.png)
+![test](img/praktikum2_soal6.png) -->
 
 
 
@@ -172,11 +172,6 @@ jawab:
 
 
 
-<!-- **Tugas Praktikum**
-
-1. Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. Silakan Anda sesuaikan sehingga dapat tampil seperti gambar berikut.
-
-2. Perhatikan fungsi fetchCardData() (pada file src\model\query.tsx) dari soal nomor 1. Jelaskan maksud kode dan kueri yang dilakukan dalam fungsi tersebut! -->
 
 
 
