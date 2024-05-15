@@ -156,7 +156,7 @@ Setelah tahap tersebut selesai, fokus akan dialihkan ke pengembangan komponen-ko
 
 ![tets](img/Praktikum2_Langkah10.png)
 
-![test](img/Praktikum2_Langkah11.png)
+![test](img/Praktikum2_Langkah11_.png)
 
 
 
