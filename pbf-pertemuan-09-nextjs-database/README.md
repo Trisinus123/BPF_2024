@@ -160,6 +160,13 @@ Setelah tahap tersebut selesai, fokus akan dialihkan ke pengembangan komponen-ko
 
 ![test](img/soal%206.png)
 
+Soal 6
+
+Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+
+jawab: 
+Data Data revenueFetch yang diperoleh akan di olah dan di tampilkan pada laman reactjs, di mulai dari sumbu x dan y saat kita mengeksrack data dan untuk memperoleh 12 data bulan sekaligus bisa melakukan input manual dengan arbitrary value grid-cols-[25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px]. tampilannya akan seperti diatas.
+
 
 
 
