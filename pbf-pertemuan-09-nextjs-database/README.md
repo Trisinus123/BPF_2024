@@ -171,8 +171,14 @@ Data Data revenueFetch yang diperoleh akan di olah dan di tampilkan pada laman r
 
 ![test](img/soal7-1.png)
 
+![test](img/jawabn_Soal7.png)
+
 Soal 7
 Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+jawab :
+Dengan menggunakan model kueri untuk mengambil 5 data terbaru di dalam fungsi `fetchLatestInvoices`, untuk membatasi hasilnya dengan menambahkan klausa `LIMIT 5` pada kueri data. Data ini kemudian disimpan dalam variabel `latestInvoices` dan diekstrak ke dalam sebuah peta (map), yang kemudian ditampilkan di laman. Hal ini memungkinkan kita untuk menampilkan hanya data terbaru yang paling relevan untuk pengguna.
+
+
 
 
 
