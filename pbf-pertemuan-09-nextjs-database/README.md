@@ -156,7 +156,7 @@ Setelah tahap tersebut selesai, fokus akan dialihkan ke pengembangan komponen-ko
 
 -  Menghapus comment pada komponen RevenueChart
 
-![test](img/Langkah6_Praktikum2.png)
+![test](img/langkah6_Sola6.png)
 
 ![test](img/soal%206.png)
 
