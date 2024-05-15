@@ -167,6 +167,16 @@ Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. J
 jawab: 
 Data Data revenueFetch yang diperoleh akan di olah dan di tampilkan pada laman reactjs, di mulai dari sumbu x dan y saat kita mengeksrack data dan untuk memperoleh 12 data bulan sekaligus bisa melakukan input manual dengan arbitrary value grid-cols-[25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px]. tampilannya akan seperti diatas.
 
+**Fetching Data untuk komponen LatestInvoices**
+
+![test](img/soal7-1.png)
+
+Soal 7
+Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+
+
+
+
 
 
 
