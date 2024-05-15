@@ -165,7 +165,7 @@ Soal 6
 Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 
 jawab: 
-Data Data revenueFetch yang diperoleh akan di olah dan di tampilkan pada laman reactjs, di mulai dari sumbu x dan y saat kita mengeksrack data dan untuk memperoleh 12 data bulan sekaligus bisa melakukan input manual dengan arbitrary value grid-cols-[25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px_25px]. tampilannya akan seperti diatas.
+Data Data revenueFetch yang diperoleh akan di olah dan di tampilkan pada laman reactjs, di mulai dari sumbu x dan y saat kita mengeksrack data dan untuk memperoleh 12 data bulan sekaligus bisa melakukan input manual dengan arbitrary value grid-cols-[30px_30px_30px_30px_30px_30px_30px_30px_30px_30px_30px_30px_25px]. tampilannya akan seperti diatas.
 
 **Fetching Data untuk komponen LatestInvoices**
 
@@ -184,14 +184,13 @@ Dengan menggunakan model kueri untuk mengambil 5 data terbaru di dalam fungsi `f
 
  ![test](img/Tugaspraktikum_1.png)
 
- 
+ ![test](img/7-1.png) 
+ ![test](img/7-2.png)
 
  2. Perhatikan fungsi fetchCardData() (pada file src\model\query.tsx) dari soal nomor 1. Jelaskan maksud kode dan kueri yang dilakukan dalam fungsi tersebut
 
  jawab :
- Fungsi `fetchCardData()` bertujuan untuk mengambil data yang diperlukan untuk menampilkan informasi pada kartu di dashboard. Ini mencakup jumlah total invoice yang sudah dibayarkan, jumlah total invoice yang masih tertunda, jumlah total pelanggan, dan total pendapatan yang sudah dibayarkan.  intinya, fungsi ini melakukan beberapa kueri SQL untuk mengambil data yang sesuai, memformat data yang diperlukan, dan mengembalikan objek yang berisi informasi yang akan ditampilkan pada kartu di dashboard.
-
-
+ Fungsi `fetchCardData()` bertujuan untuk mengambil beberapa informasi kunci yang dibutuhkan untuk menampilkan kartu (card) dalam dashboard. Query yang dilakukan pada fungsi ini mengambil total banyak data pada invoices dan customers, serta total banyak data untuk invoices dengan status paid dan pending. Setelah data berhasil diekstrak dari hasil query, empat jenis data ini (total invoices, total customers, total paid invoices, dan total pending invoices) kemudian dikembalikan sebagai objek yang siap digunakan untuk ditampilkan dalam kartu (card) pada dashboard. Dengan demikian, fungsi `fetchCardData()` memungkinkan dashboard untuk menampilkan informasi penting tentang kesehatan keuangan dan aktivitas bisnis dengan akurat dan aktual.
 
 
 
