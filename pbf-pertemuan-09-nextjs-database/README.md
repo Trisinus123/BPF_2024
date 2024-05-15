@@ -152,18 +152,15 @@ Pertama-tama, kita akan mulai dengan menetapkan struktur data untuk setiap entit
 
 Setelah tahap tersebut selesai, fokus akan dialihkan ke pengembangan komponen-komponen dan laman-laman yang akan ditampilkan kepada pengguna. Meskipun laman untuk menampilkan data belum aktif, langkah ini diperlukan untuk memastikan keselamatan program tanpa adanya kesalahan. Seiring dengan kemajuan pengembangan komponen-komponen, langkah berikutnya adalah memperbarui halaman utama (page.tsx) agar komponen-komponen yang telah dibuat dapat diimpor dan ditampilkan saat server berjalan.
 
-- Menghilangkan comment pada komponen RevenueChart
+**Fetching Data untuk komponen RevenueChart**
 
-![tets](img/Praktikum2_Langkah10.png)
+-  Menghapus comment pada komponen RevenueChart
 
-![test](img/langkah6_Praktikum2.png)
+![test](img/Langkah6_Praktikum2.png)
 
-Soal 6
+![test](img/soal%206.png)
 
-Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
-jawab:
 
-![test](img/praktikum2_soal6.png)
 
 
 
