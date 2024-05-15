@@ -158,12 +158,12 @@ Setelah tahap tersebut selesai, fokus akan dialihkan ke pengembangan komponen-ko
 
 ![test](img/langkah6_Praktikum2.png)
 
-<!-- Soal 6
+Soal 6
 
 Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 jawab:
 
-![test](img/praktikum2_soal6.png) -->
+![test](img/praktikum2_soal6.png)
 
 
 
