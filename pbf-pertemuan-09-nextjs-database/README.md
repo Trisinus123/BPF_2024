@@ -178,6 +178,19 @@ Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. J
 jawab :
 Dengan menggunakan model kueri untuk mengambil 5 data terbaru di dalam fungsi `fetchLatestInvoices`, untuk membatasi hasilnya dengan menambahkan klausa `LIMIT 5` pada kueri data. Data ini kemudian disimpan dalam variabel `latestInvoices` dan diekstrak ke dalam sebuah peta (map), yang kemudian ditampilkan di laman. Hal ini memungkinkan kita untuk menampilkan hanya data terbaru yang paling relevan untuk pengguna.
 
+**Tugas Praktikum**
+
+ 1. Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. Silakan Anda sesuaikan sehingga dapat tampil seperti gambar berikut.
+
+ ![test](img/Tugaspraktikum_1.png)
+
+ 
+
+ 2. Perhatikan fungsi fetchCardData() (pada file src\model\query.tsx) dari soal nomor 1. Jelaskan maksud kode dan kueri yang dilakukan dalam fungsi tersebut
+
+ jawab :
+ Fungsi `fetchCardData()` bertujuan untuk mengambil data yang diperlukan untuk menampilkan informasi pada kartu di dashboard. Ini mencakup jumlah total invoice yang sudah dibayarkan, jumlah total invoice yang masih tertunda, jumlah total pelanggan, dan total pendapatan yang sudah dibayarkan.  intinya, fungsi ini melakukan beberapa kueri SQL untuk mengambil data yang sesuai, memformat data yang diperlukan, dan mengembalikan objek yang berisi informasi yang akan ditampilkan pada kartu di dashboard.
+
 
 
 
