@@ -154,4 +154,12 @@ Setelah tahap tersebut selesai, fokus akan dialihkan ke pengembangan komponen-ko
 
 
 
+<!-- **Tugas Praktikum**
+
+1. Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. Silakan Anda sesuaikan sehingga dapat tampil seperti gambar berikut.
+
+2. Perhatikan fungsi fetchCardData() (pada file src\model\query.tsx) dari soal nomor 1. Jelaskan maksud kode dan kueri yang dilakukan dalam fungsi tersebut! -->
+
+
+
 
