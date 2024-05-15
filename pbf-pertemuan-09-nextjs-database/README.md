@@ -163,7 +163,8 @@ Soal 6
 Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
 jawab:
 
-![test](img/Soal6%20Praktikum.png)
+![test](img/praktikum2_soal6.png)
+
 
 
 
