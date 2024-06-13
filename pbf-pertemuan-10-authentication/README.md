@@ -6,4 +6,13 @@ Langkah 1: Buat halaman login
 
 ![test](img/Prak1-langkah1.png)
 
+Langkah 2: Konfigurasi NextAuth.js
+
+```bash
+npm i --save next-auth@beta
+```
+
+
+
+
 
